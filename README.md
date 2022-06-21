@@ -1,1 +1,1 @@
-# Design-Patterns
+Every Design pattern learned on "Programozási technológiák ea." course implemented in Java.
